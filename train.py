@@ -38,7 +38,7 @@ def main(_):
         os.makedirs(FLAGS.checkpoint_dir)
 
     edlsm = edlsmLearner()
-    #edlsm.train(FLAGS)
+    edlsm.train(FLAGS)
 
 
 if __name__ == '__main__':
