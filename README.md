@@ -53,6 +53,8 @@ python inference_match.py --dataset_dir=/path/to/data_scene_flow/training --chec
 ``` bash
 python inference_match.py  --h
 ```
+### Future Work
+Implement the post-processing steps.
 
 ### Code citation
 Original Code: https://bitbucket.org/saakuraa/cvpr16_stereo_public
